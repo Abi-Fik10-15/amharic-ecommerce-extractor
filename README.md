@@ -26,3 +26,4 @@ amharic-ecommerce-extractor/
 
 ## Output
 Cleaned product data saved to `data/cleaned/cleaned_data.csv`"# amharic-ecommerce-extractor" 
+"# amharic-ecommerce-extractor" 
